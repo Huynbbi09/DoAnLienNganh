@@ -506,3 +506,4 @@ document.getElementById('hiddenDescriptionInput').value = descriptionValue;
         return confirm('Bạn có chắc chắn muốn xóa không?');
     }
 </script>
+//mng

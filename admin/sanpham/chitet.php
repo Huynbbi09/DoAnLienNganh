@@ -193,3 +193,6 @@ foreach ($data as $list){
 <script src="vendors/datatables/dataTables.custom-ui.min.js"></script>
 <!-- Page js -->
 <script src="js/pages/product-list.js"></script>
+
+//ghi
+
